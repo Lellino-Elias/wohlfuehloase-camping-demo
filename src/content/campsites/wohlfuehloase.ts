@@ -39,12 +39,12 @@ const wohlfuehloase: CampsiteConfig = {
     },
     {
       title: "Schafe, Hühner & Hängematte",
-      text: "Schafe und Hühner gehören zum Alltag in der Wohlfühloase. Wer mag, beobachtet die Tiere, entspannt in der Hängematte im Garten oder genießt einfach die Ruhe.",
+      text: "Schafe und Hühner leben am Hof — wer mag, beobachtet die Tiere oder entspannt in der Hängematte im Garten.",
       image: { src: `${IMG}/gallery-c261196834.webp`, alt: "Gäste entspannen in Hängematten zwischen den Schafen auf dem Hof der Wohlfühloase" },
     },
     {
       title: "Die Genussoase am Hof",
-      text: "Regionale Weine, frische Bauern-Eier, Säfte, Marmeladen und Selbstgemachtes — in der kleinen Genussoase direkt am Hof, im Sommer offen, im Winter über die Glastür erreichbar.",
+      text: "Regionale Weine, Bauern-Eier, Säfte und Selbstgemachtes in der kleinen Genussoase direkt am Hof.",
       image: { src: `${IMG}/gallery-4125b1011a.webp`, alt: "Regionaler Wein und Gläser aus der Genussoase der Wohlfühloase" },
     },
   ],
@@ -80,27 +80,27 @@ const wohlfuehloase: CampsiteConfig = {
     features: [
       {
         title: "Fünf Plätze mit Weitblick",
-        text: "Fünf Stellplätze auf der Anhöhe, jeder mit freiem Blick über Hügel, Wiesen und Wälder. Seit 2026 schräg angelegt, Anreise rund um die Uhr ohne Reservierung.",
+        text: "Fünf Stellplätze mit Weitblick über Hügel, Wiesen und Wälder, schräg angelegt, rund um die Uhr anreisbar.",
         image: { src: `${IMG}/gallery-4cd522a2a8.webp`, alt: "Wohnmobile am Stellplatz der Wohlfühloase, davor grasende Schafe" },
       },
       {
         title: "Borstiburner & Feuerschale",
-        text: "Der hauseigene Borstiburner-Holzgrill und die Feuerschale stehen bereit — ein gemeinsamer Grillabend unterm Sternenhimmel wird hier schnell zum Höhepunkt.",
+        text: "Der Borstiburner-Holzgrill und die Feuerschale laden zu Grillabenden unterm Sternenhimmel ein.",
         image: { src: `${IMG}/gallery-b0162c6341.webp`, alt: "Gegrillte Steaks vom Borstiburner-Holzgrill der Wohlfühloase" },
       },
       {
         title: "Sternenhimmel statt Straßenlicht",
-        text: "Bewusst nur Orientierungslichter, kein grelles Licht: An klaren Abenden zeigt sich über dem Hof ein Sternenhimmel, der oft die Milchstraße sichtbar macht.",
+        text: "Bewusst nur Orientierungslichter — an klaren Abenden zeigt sich ein Sternenhimmel mit sichtbarer Milchstraße.",
         image: { src: `${IMG}/gallery-da6b2853e2.webp`, alt: "Abenddämmerung mit weitem Blick über die Hügel der Südoststeiermark" },
       },
       {
         title: "Mit Holz & Quellwasser gebaut",
-        text: "Zwei Photovoltaikanlagen, Holz aus dem eigenen Wald, Trinkwasser aus eigener Quelle und ein 28.000-Liter-Regenwassertank — übernachten mit kleinem ökologischen Fußabdruck.",
+        text: "Eigene Quelle, Holz aus dem Wald, Photovoltaik und ein 28.000-Liter-Regenwassertank für kleinen Fußabdruck.",
         image: { src: `${IMG}/gallery-d5a59f86ef.webp`, alt: "Holzgebäude der Wohlfühloase am Trausdorfberg eingebettet in die grüne Hügellandschaft" },
       },
       {
         title: "Wellness zum Dazubuchen",
-        text: "Sauna und Whirlpool gehören zu den Ferienapartments. Als Stellplatzgast kannst du bei freien Kapazitäten ein Wellness-Zeitfenster gegen Gebühr anfragen.",
+        text: "Sauna und Whirlpool der Ferienapartments können Stellplatzgäste bei Verfügbarkeit gegen Gebühr anfragen.",
         image: { src: `${IMG}/gallery-6a6623e90a.webp`, alt: "Outdoor-Whirlpool der Ferienapartments mit winterlichem Sonnenuntergang über den Hügeln" },
       },
     ],
