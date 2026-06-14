@@ -96,7 +96,7 @@ const wohlfuehloase: CampsiteConfig = {
       {
         title: "Mit Holz & Quellwasser gebaut",
         text: "Zwei Photovoltaikanlagen, Holz aus dem eigenen Wald, Trinkwasser aus eigener Quelle und ein 28.000-Liter-Regenwassertank — übernachten mit kleinem ökologischen Fußabdruck.",
-        image: { src: `${IMG}/gallery-c40055278b.webp`, alt: "Blick aus dem Holzbau des Hofes über die Wiesen und Wälder am Trausdorfberg" },
+        image: { src: `${IMG}/gallery-d5a59f86ef.webp`, alt: "Holzgebäude der Wohlfühloase am Trausdorfberg eingebettet in die grüne Hügellandschaft" },
       },
       {
         title: "Wellness zum Dazubuchen",
